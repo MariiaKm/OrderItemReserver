@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "OrderItemReserver": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7095"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 30981,
+      "useSSL": false
+    }
+  }
+}
